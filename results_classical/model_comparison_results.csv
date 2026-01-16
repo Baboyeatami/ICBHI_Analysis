@@ -1,0 +1,7 @@
+Model,Best Params,CV Mean Accuracy,Test Accuracy,Saved Path
+ANN (MLP),"{'activation': 'relu', 'hidden_layer_sizes': (50, 50)}",0.7727051671732523,0.8636363636363636,./results_classical/deployable_models\ANN_(MLP).joblib
+SVM,"{'C': 10, 'gamma': 'scale', 'kernel': 'rbf'}",0.802532928064843,0.8409090909090909,./results_classical/deployable_models\SVM.joblib
+KNN,"{'n_neighbors': 5, 'weights': 'distance'}",0.7855015197568389,0.8181818181818182,./results_classical/deployable_models\KNN.joblib
+Gradient Boosting,"{'learning_rate': 0.1, 'n_estimators': 100}",0.7457142857142858,0.8068181818181818,./results_classical/deployable_models\Gradient_Boosting.joblib
+Random Forest,"{'max_depth': 10, 'n_estimators': 200}",0.7655825734549139,0.7954545454545454,./results_classical/deployable_models\Random_Forest.joblib
+Logistic Regression,{'C': 0.1},0.7158358662613982,0.7045454545454546,./results_classical/deployable_models\Logistic_Regression.joblib
