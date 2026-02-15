@@ -85,7 +85,7 @@ ADVICE = {
         "- Bluish or gray lips, face, or fingertips (cyanosis)\n"
         "- Confusion, dizziness, or fainting\n"
         "- Very high fever with chills\n\n"
-        "Other Associated Symptoms\n"
+        "Other Associated conditions\n"
         "- Pneumonia\n"
         "- Congestive heart failure / pulmonary edema\n"
         "- COPD or bronchitis\n"
